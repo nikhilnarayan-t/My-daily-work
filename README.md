@@ -8,3 +8,4 @@ Tracking my progress in Python, Data Structures &amp; Algorithms, AI/ML, and sof
 [day 6](day6.md)
 [day 7](day7.md)
 [day 8](day8.md)
+[day 9](day9.md)
